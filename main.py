@@ -92,3 +92,4 @@ while volba == "2":
 f1.close()
 f2.close()
     
+#Dal bych si 3, protože jsem na to dělal cele odpoledne, ale statistika vyskytu se mi nepodařila. Jinak všechno funguje i když ne asi ideálně.
